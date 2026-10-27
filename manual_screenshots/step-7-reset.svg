@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620">
+<style>text { dominant-baseline: alphabetic; }</style>
+<rect width="1120" height="620" fill="#f7f7f4"/>
+<rect x="0" y="0" width="1120" height="72" fill="#fff" stroke="#e4e5df"/>
+<text x="54" y="45" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="20" font-weight="600" fill="#252720">インタビュー発話のマスキング</text>
+<text x="760" y="42" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="15" fill="#85877e">自動保存中</text>
+<text x="858" y="43" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="12" fill="#a0a39b">最初からやり直す</text>
+<rect x="983" y="9" width="116" height="46" rx="9" fill="#405847"/><text x="1022" y="38" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="16" font-weight="600" fill="#fff">保存</text>
+<text x="54" y="126" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="25" font-weight="600" fill="#252720">内容を確認する</text><text x="826" y="125" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="18" fill="#6f736b">250 / 571</text>
+<rect x="54" y="148" width="1012" height="3" rx="2" fill="#e8e9e4"/><rect x="54" y="148" width="405" height="3" rx="2" fill="#718775"/>
+<rect x="54" y="174" width="1012" height="302" rx="12" fill="#fff" stroke="#e4e5df"/><text x="78" y="208" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="14" fill="#85877e">記録 250</text><text x="80" y="279" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="25" fill="#30322d">昨日、東京本社の山田さんに連絡しました。</text><text x="80" y="340" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="13" fill="#969990">作業中の内容は自動保存されています。</text>
+<rect x="846" y="1" width="124" height="54" rx="8" fill="none" stroke="#d36d48" stroke-width="4"/><path d="M935 128 C935 100 910 84 908 58" fill="none" stroke="#d36d48" stroke-width="3" marker-end="url(#arrow)"/><defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#d36d48"/></marker></defs>
+<rect x="274" y="364" width="572" height="132" rx="14" fill="#fff" stroke="#d9dbd4"/><text x="306" y="405" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="17" font-weight="600" fill="#252720">最初からやり直しますか？</text><text x="306" y="435" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="13" fill="#73776d">自動保存された作業内容を削除します。</text><rect x="638" y="451" width="82" height="30" rx="6" fill="#fff" stroke="#e4e5df"/><text x="663" y="471" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="12" fill="#73776d">キャンセル</text><rect x="730" y="451" width="86" height="30" rx="6" fill="#405847"/><text x="758" y="471" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="12" fill="#fff">OK</text>
+<rect x="250" y="520" width="620" height="42" rx="21" fill="#fff4ee" stroke="#d36d48"/><text x="286" y="547" font-family="Hiragino Kaku Gothic ProN, sans-serif" font-size="16" fill="#9f4d31">使う前に「保存」で結果ファイルを出力してください</text>
+</svg>
